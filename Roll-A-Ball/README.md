@@ -5,5 +5,6 @@ This is a basic Unity-3D project in which user controls a ball and if object hit
 - Unity 3D software
 - VS Code(or any other IDE for coding such as Sublime Text,etc)
 
-## Steps
-1.
+## Screenshots of Game 
+![Front View](Screenshot1.png)
+![Top View](Screenshot2.png)
