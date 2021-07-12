@@ -6,4 +6,4 @@ This is a basic Unity-3D project in which user controls a ball and if object hit
 - VS Code(or any other IDE for coding such as Sublime Text,etc)
 
 ## Steps
-(1.)
+1.
