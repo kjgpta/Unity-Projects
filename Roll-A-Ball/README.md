@@ -10,4 +10,7 @@ This is a basic Unity-3D project in which user controls a ball and if object hit
 ![Top View](Screenshot2.png)
 
 ### Gameplay
-![Gameplay](Roll-A-Ball.mkv)
+
+
+https://user-images.githubusercontent.com/66853419/125307103-64ea5d80-e34d-11eb-9cd9-cc36c847d624.mp4
+
