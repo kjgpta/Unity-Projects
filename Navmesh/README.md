@@ -6,9 +6,8 @@ This is a Unity-3D project in which a capsule shaped agent uses Navmesh to reach
 - VS Code(or any other IDE for coding such as Sublime Text,etc)
 
 ## Screenshots of Game 
-
-<img width="964" alt="FrontView" src="https://user-images.githubusercontent.com/66853419/126278986-af0d6402-8de8-4740-81b3-80db5e3ee5e3.png">
-<img width="960" alt="TopView" src="https://user-images.githubusercontent.com/66853419/126278997-df401f0d-e065-46e3-accd-7e8055b68a99.png">
+<img width="940" alt="Top View" src="https://user-images.githubusercontent.com/66853419/126279916-172af0fd-0155-4b49-aeda-7b0651682c4e.png">
+<img width="942" alt="Side View" src="https://user-images.githubusercontent.com/66853419/126279926-fea16abc-17b6-4de6-aad0-8c13b53cc509.png">
 
 ## Gameplay
 
