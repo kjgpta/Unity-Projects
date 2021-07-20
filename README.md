@@ -1,2 +1,2 @@
 # Unity-Projects
-In this Repository, you will find projects such as roll-a-ball game in Unity 3D.
+In this Repository, you will find projects made in Unity 3D.
